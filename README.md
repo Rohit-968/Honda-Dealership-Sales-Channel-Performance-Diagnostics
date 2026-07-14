@@ -30,5 +30,3 @@ Power BI · DAX (measures, time intelligence, filter context) · Power Query · 
 ## Note on Data
 
 Pricing and CAC figures are illustrative assumptions, kept in separate editable reference tables. Sales volumes and lead sources reflect actual (anonymized) dealership records. Independent personal project — not an official Honda deliverable.
-
-**Rohit Vinod** — Data Analytics Intern, Honda Cars India Limited
